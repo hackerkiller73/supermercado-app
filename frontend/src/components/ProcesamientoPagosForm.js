@@ -44,6 +44,7 @@ const ProcesamientoPagosForm = () => {
           >
             <option value="">Seleccione un método de pago</option>
             <option value="efectivo">Efectivo</option>
+            <option value="QR">QR</option>
             <option value="tarjeta">Tarjeta de Crédito/Débito</option>
             {/* Agrega más opciones de método de pago según sea necesario */}
           </select>
